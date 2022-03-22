@@ -1,10 +1,10 @@
-### Hi there 👋
+## Olá, Eu sou o Samuel M. Pedroso 👋
 
-<!--
-**SamuelMPedroso/SamuelMPedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com integrações de sistemas web e embarcados 
+- 🌱 Atualmente estou estudando CSharp (C#)
 
-Here are some ideas to get you started:
-
-- 🔭 Hoje trabalho com integrações
-- 🌱 Atualmente estou estudando CSharp
--->
+<div>
+  <a href="https://github.com/SamuelMPedroso">
+  <img height="180em" src=""/>
+  <img height="180em" src=""/>
+</div>
