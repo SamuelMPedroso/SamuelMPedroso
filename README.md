@@ -10,7 +10,7 @@
 </div>
 
 <p align='left'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here!!
+  <a href="#"><img src="https://badges.pufler.dev/visits/SamuelMPedroso/SamuelMPedroso"></a> hipsters and nerds have come here!!
 </p>
   
 <div style="display: inline_block"><br>
