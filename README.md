@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Samuel M. Pedroso 👋
 
 - 🎓 Estudando Ciência da Computação.
-- 🌱 Aprendendo novas linguagens como CSharp (C#)
+- 🌱 Aprendendo novas linguagens como CSharp (C#).
 - 🏙 Trabalhando atualmente com integrações de software.
 - 👅 Inglês em desenvolvimento 📈.
 
