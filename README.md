@@ -6,9 +6,13 @@
 <div>
   <a href="https://github.com/SamuelMPedroso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelMPedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMPedroso&layout=compact&langs_count=7&theme=dracula"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMPedroso&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
 
+<p align='left'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here!!
+</p>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Delphi" height="30" width="30" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
   <img align="center" alt="Samuel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
