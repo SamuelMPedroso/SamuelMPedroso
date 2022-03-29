@@ -1,7 +1,9 @@
 ## Olá, Eu sou o Samuel M. Pedroso 👋
 
-- 🔭 Hoje trabalho com integrações de sistemas web e embarcados 
-- 🌱 Atualmente estou estudando CSharp (C#)
+- 🎓 Estudando Ciência da Computação.
+- 🌱 Aprendendo novas linguagens como CSharp (C#)
+- 🏙 Trabalhando atualmente com integrações de software.
+- 👅 Inglês em desenvolvimento 📈.
 
 <div>
   <a href="https://github.com/SamuelMPedroso">
@@ -27,4 +29,6 @@
 <div> 
   <a href = "mailto:samuel_pedroso01@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-maria-pedroso-3a5bb6192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ <!-- ![ Animação de cobra ](https://github.com/samuel-pedroso/samuel-pedroso/blob/output/github-contribution-grid-snake.svg) -->
 </div>
