@@ -5,7 +5,7 @@
 - 🏙 Trabalhando atualmente com integrações de software.
 - 👅 Inglês em desenvolvimento 📈.
 
-<div >
+<div>
   <a href="https://github.com/SamuelMPedroso">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=SamuelMPedroso&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="200" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMPedroso&layout=compact&langs_count=7&theme=vue-dark"/>
@@ -25,7 +25,6 @@
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Samuel-SQLServer" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Samuel-Oracle" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-
 </div>
    
 ##
