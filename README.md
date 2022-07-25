@@ -10,10 +10,6 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=SamuelMPedroso&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="200" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMPedroso&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
-
-<div align='left'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/SamuelMPedroso/SamuelMPedroso"></a> Galerinha do mal que veio aqui, Show!!
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Delphi" height="30" width="30" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
