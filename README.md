@@ -1,8 +1,7 @@
 ## Olá, Eu sou o Samuel M. Pedroso 👋
 
-- 🎓 Estudando Ciência da Computação.
-- 🌱 Aprendendo novas linguagens como CSharp (C#).
-- 🏙 Trabalhando atualmente com integrações de software.
+- 🎓 Formado em Ciência da Computação.
+- 🏙 Trabalhando atualmente como desenvolvedor FullStack Web.
 - 👅 Inglês em desenvolvimento 📈.
 
 <div>
