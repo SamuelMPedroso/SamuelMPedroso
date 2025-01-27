@@ -2,7 +2,7 @@
 
 - 🎓 Formado em Ciência da Computação.
 - 🏙 Trabalhando atualmente como desenvolvedor FullStack Web.
-- 👅 Inglês em desenvolvimento 📈.
+- 👅 Inglês técnico.
 
 <div>
   <a href="https://github.com/SamuelMPedroso">
