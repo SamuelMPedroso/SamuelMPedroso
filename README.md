@@ -1,22 +1,22 @@
-## Olá, Eu sou o Samuel M. Pedroso 👋
+## Hi there! I'm Samuel M. Pedroso 👋
 
-- 🎓 Formado em Ciência da Computação.
-- 🏙 Trabalhando atualmente como desenvolvedor FullStack Web.
-- 👅 Inglês técnico.
+- 🎓 Bachelor's Degree in Computer Science
+- 💻 FullStack Web Developer
+- 🌍 Technical English
 
 <div>
   <a href="https://github.com/SamuelMPedroso">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=SamuelMPedroso&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="155em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMPedroso&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
-  
-<div style="display: inline_block"><br>
+
+## 🛠 Tech Stack:
+<div style="display: inline_block">
   <img align="center" alt="Samuel-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Samuel-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Samuel-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />  
   <img align="center" alt="Samuel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
   <img align="center" alt="Samuel-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Samuel-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Samuel-Oracle" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Samuel-SQLServer" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Samuel-PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
