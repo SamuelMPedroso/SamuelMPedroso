@@ -4,11 +4,9 @@
 - 💻 FullStack Web Developer
 - 🌍 Technical English
 
-<div>
-  <a href="https://github.com/SamuelMPedroso">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=SamuelMPedroso&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMPedroso&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
+  ![Snake animation](https://github.com/Jjokiba/Jjokiba/blob/output/github-snake-dark.svg)
+  ##
+  [![](https://visitcountpro.netlify.app/api?id=JjokibaIn&pretty=true&color=6)](https://github.com/VishwaGauravIn/visit-count-pro)
 
 ## 🛠 Tech Stack:
 <div style="display: inline_block">
